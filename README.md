@@ -1,2 +1,2 @@
 # TFC-Jappa
-TFC: TNG's textures tweaked &amp; Jappafied.
+TFC: TNG's textures tweaked &amp; Modernised.
